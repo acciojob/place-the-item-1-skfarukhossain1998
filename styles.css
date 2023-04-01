@@ -1,2 +1,28 @@
 
-/* Your CSS Code here. */
+.holder{
+	
+	display:flex;
+	padding:5px;
+flex-wrap: wrap;
+	justify-content: space-between;
+	
+}
+.three{
+ border:3px solid green;
+	font-size:85px;
+	padding:25px;
+	background-color:green;
+}
+.one{
+	border:3px solid red;
+	font-size:85px;
+	padding:25px;
+	background-color:red;
+}
+.two{
+	border:3px solid blue;
+	font-size:85px;
+	padding:25px;
+	background-color:blue;
+}
+
